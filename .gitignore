@@ -1,0 +1,10 @@
+# Build files 
+build/ 
+*o 
+*.elf 
+*.hex 
+*.bin 
+# IDE files 
+.settings/ 
+Debug/ 
+Release/ 
